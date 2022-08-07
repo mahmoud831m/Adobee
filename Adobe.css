@@ -1,0 +1,194 @@
+
+body {
+  margin-top: 20px;
+}
+
+.headin {
+  position: relative;
+ 
+}
+
+a {
+  color: #000000;
+  font-size: 10px;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.t {
+  background-color: #0D65CF;
+  color: #FFFFFF;
+  border-radius: 25px;
+  padding: 8px 15px;
+  font-weight: bold;
+  font-size: 15px;
+ position: relative;
+ right: -200px;
+ bottom: -25px;
+ 
+}
+
+.f {
+  color:  #0D65CF;
+  position: relative;
+  right: -270px;
+  bottom: -40px;
+  font-size: 14px;
+}
+.headin .naem {
+position: absolute;
+ top: 5px;
+ right: 10px;
+ left: 200px;
+ font-size: 15px;
+color: #F61103;
+font-size: 17px;
+font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.img {
+  width: 27px;
+  position: absolute;
+  top: 4px;
+  right: 57px;
+  
+}
+
+.img1 {
+  width: 100%;
+  margin-top: 30px;
+  
+}
+
+.img2 {
+  width: 90%;
+  position: relative;
+  left: 18px;
+  top: 25px;
+}
+
+.img3 {
+  width: 90%;
+  position: relative;
+  left: 18px;
+  top: 50px;
+}
+
+.img4 {
+  width: 90%;
+  position: relative;
+  left: 18px;
+  top: 80px;
+}
+
+.img5{
+  width: 90%;
+  position: relative;
+  left: 18px;
+  top: 100px;
+}
+
+.m {
+  margin-top: 50px;
+   text-align: right;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15;
+}
+.h1 {
+ font-size: 15px;
+ margin-top: 13px;
+ text-align: right;
+}
+
+.p {
+  margin-top: 15;
+  font-size: 14px;
+  text-align: right;
+}
+
+.pp {
+  margin-top: 90px;
+  text-align: center;
+}
+
+nav {
+ width: 300px;
+ position: relative;
+ left: 40px;
+}
+.c {
+    padding: 10px;
+   color: #0D65CF;
+}
+
+i {
+  position: relative;
+  left: 320px;
+  bottom: 17px;
+}
+.x {
+  color: #0D65CF;
+  position: relative;
+   left: 150px;
+  
+}
+
+.hr {
+  border: 1px solid #eee;
+}
+
+.aa {
+  background-color: #9898FC;
+  width: 280px;
+  margin: 20px auto;
+  padding: 20px;
+  height: 410px;
+  position: relative;
+   top: 105px;
+}
+
+.ap{
+  position: relative;
+  top: 10px;
+  text-align: right;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.ht {
+color: #000000;
+z-index: 2px;
+position: relative;
+border: 1px solid;
+}
+
+.hh {
+color: #000000;
+  z-index: 2px;
+  position: relative;
+  border: 1px solid;
+  top: 10px;
+}
+.gg{
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  top: 13px;
+}
+
+.ggg {
+  font-size: 15px;
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+  }
+  
+  .jj {
+    font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+  }
